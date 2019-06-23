@@ -7,4 +7,4 @@ this document is going to be coninously updated about possible ideas and expandi
 
 
 
-### 2-Using Cellphone Sensors and possible other sensors like WIFI to predicit positin of Pedesterians at Indoor Enviroments.
+### 2-Using Cellphone Sensors and possible other sensors like WIFI to predict position of Pedesterians at Indoor Enviroments.
