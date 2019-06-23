@@ -1,4 +1,4 @@
-# Mind Storming On Possible Cool HachZurich Ideas to Fire On at 2019
+# Mind Storming On HachZurich Ideas 2019
 This Repo Contain Some Very pure Ideas that can be presented to be implemented in HachZurich Event.
 this document is going to be coninously updated about possible ideas and expanding them by adding more descriptions, infographics and block-diagrams for working architecture.
 
