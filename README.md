@@ -1,4 +1,4 @@
-# HachZurich_Ideas
+# HachZurich Ideas Mind Storm
 This Repo Contain Some Very pure Ideas that can be presented to be implemented in HachZurich Event.
 this document is going to be coninously updated about possible ideas and expanding them by adding more descriptions, infographics and block-diagrams for working architecture.
 
